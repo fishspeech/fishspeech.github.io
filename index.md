@@ -2,46 +2,18 @@
 
 I am a writer and student curator from Hanoi, Vietnam.
 
-Currently, I am pursuing a bachelor's in Art History and Religious Studies at the University of Chicago.
+Currently, I am pursuing a bachelor's in Art History and Religious Studies at the University of Chicago, with an expected graduation date of March 2023.
 
-Below are some of the things I have done, as well as things I am yet to do. 
-
-## Writing
-
----
-
-In my free time, I contribute to the Arts section of the Chicago Maroon by writing about the music I like. I reviewed [100 gecs' concert in Chicago](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) during their 10000 gecs tour, and I wrote [a tribute to SOPHIE](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) in memoriam of her passing in 2021.
+Below are some of the things I have done, as well as things I plan to do. 
 
 ## Curation
 
-## Markdown
+In 2015, I founded and curated XXhibition, an exhibition 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Writing
 
-```markdown
-Syntax highlighted code block
+I write poems. Very occasionally, I let them out in the world. In 2017, My poem "Foreshadowing" was chosen for publication in the Austin International Poetry Festival's annual anthology, di-vêrsé-city. 
 
-# Header 1
-## Header 2
-### Header 3
+In my free time, I contribute to the Arts section of the Chicago Maroon by writing about the music I like. I reviewed [100 gecs' concert in Chicago](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) during their 10000 gecs tour, and I wrote [a tribute to SOPHIE](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) in memoriam of her passing in 2021.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fishspeech/fishspeech.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am currently working on a zine on Adonis, transmasculine beauty, and roses.
