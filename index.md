@@ -2,7 +2,7 @@
 
 Hello. I was named Linh, but I go by Seth. I am a writer and student curator from Hanoi, Vietnam.
 
-Currently, I am pursuing a bachelor's in Art History and Religious Studies at the University of Chicago, with an expected graduation date of March 2023.
+Currently, I am pursuing a bachelor's in Art History at the University of Chicago, with an expected graduation date of March 2023.
 
 Below are some of the things I have done and plan to do. Resume available upon request at anguyen34 at uchicago dot edu.
 
@@ -32,4 +32,4 @@ In my free time, I contribute to the Arts section of the Chicago Maroon, the stu
 
 I am working on a zine on Adonis, transmasculine beauty, and roses featuring poetry, prose, and collage art.
 
-I like to experiment with [analog photography](https://linhmnguyen34.wixsite.com/home), and I make a decent pourover.
+I like to experiment with [analog photography](https://linhmnguyen34.wixsite.com/home), and I make a decent pourover. 
