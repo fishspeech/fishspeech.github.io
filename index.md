@@ -32,4 +32,4 @@ In my other free time, I contribute to the Arts section of the Chicago Maroon, t
 
 I am working on a zine on Adonis, transmasculine beauty, and roses featuring poetry, prose, and collage art.
 
-I do [analog photography](https://linhmnguyen34.wixsite.com/home), and I make a solid pourover.
+I do [analog photography](https://linhmnguyen34.wixsite.com/home), and I make a decent pourover.
