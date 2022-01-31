@@ -8,15 +8,15 @@ Below are some of the things I have done and plan to do. Resume available upon r
 
 ## Curation
 
-Through 2020 and 2021, I interned at the Smart Museum of Art and worked on a variety of projects. 
+Through 2020 and 2021, I interned at the Smart Museum of Art in Chicago and worked on a variety of projects. 
 
-From late 2020 to mid-2021, I curated a thematic grouping titled _Ambiguous Beauty_, which consists of fifty-six transhistorical and transnational artworks from the Smart's permanent collection, as a queer curatorial intervention into the museum's existing presentation strategies. _Ambiguous Beauty_ can be viewed [here](https://smartcollection.uchicago.edu/collections/84055/ambiguous-beauty-curated-by-seth-nguyen/objects).
+From late 2020 to mid-2021, I curated a thematic grouping titled [_Ambiguous Beauty_](https://smartcollection.uchicago.edu/collections/84055/ambiguous-beauty-curated-by-seth-nguyen/objects), which consists of fifty-six transhistorical and transnational artworks from the Smart's permanent collection, as a queer curatorial intervention into the museum's existing presentation strategies. _Ambiguous Beauty_ is currently on view at the Smart's official website.
 
-The previous summer, I wrote and recorded [a virtual tour](https://theallureofmatter.org/object-chat-should-we-construct-another-cathedral/) of Huang Yong Ping's artwork, _Devons-nous encore construire une grande cathédrale?_ (_Should We Construct Another Cathedral?_), as part of the museum's 2020 virtual programming series, _Allure from Home_. 
+The previous summer, I wrote and recorded a [virtual tour](https://theallureofmatter.org/object-chat-should-we-construct-another-cathedral/) of Huang Yong Ping's artwork, _Devons-nous encore construire une grande cathédrale?_ (_Should We Construct Another Cathedral?_), as part of the museum's 2020 virtual programming series, _Allure from Home_. 
 
-I worked as a gallery assistant to Vietnamese artist and ceramicist Nguyen Nhu Quang. 
+I have also worked as a gallery assistant to Vietnamese artist and ceramicist Nguyen Nhu Quang. 
 
-I co-founded and curated XXHibition, a feminist multi-media art exhibition, in 2016. The exhibition was featured on a daily TV bulletin from Hanoi's official radio and television network, [Hanoi Radio Television's "Hanoi 18:00."](https://www.youtube.com/watch?v=E2MIRqB4Sko) 
+I co-founded and curated XXHibition, a feminist multi-media art exhibition, in 2016. The exhibition was [featured](https://www.youtube.com/watch?v=E2MIRqB4Sko) on the "Hanoi 18:00" daily bulletin, a program of Hanoi's official television network.
 
 ## Writings
 
