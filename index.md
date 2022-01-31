@@ -24,6 +24,6 @@ I am also interested in materiality's role as methodology in art history. I will
 
 In my free time, I write poems. Occasionally, I let them out from my computer. In 2017, my poem "Foreshadowing" was chosen for publication in the Austin International Poetry Festival's annual anthology, di-vêrsé-city. 
 
-In my other free time, I contribute to the Arts section of the Chicago Maroon by writing about the music I like. I reviewed [100 gecs' concert in Chicago](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) during their 10000 gecs tour, and I wrote [a tribute to SOPHIE](https://www.chicagomaroon.com/article/2021/2/23/sophie-tribute-tomorrow/) in memoriam of her passing in 2021.
+In my other free time, I contribute to the Arts section of the Chicago Maroon, the student newspaper of the University of Chicago. I reviewed [100 gecs' concert in Chicago](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) during their 10000 gecs tour, and I wrote [a tribute to SOPHIE](https://www.chicagomaroon.com/article/2021/2/23/sophie-tribute-tomorrow/) in memoriam of her passing in 2021.
 
 I am currently working on a zine on Adonis, transmasculine beauty, and roses.
