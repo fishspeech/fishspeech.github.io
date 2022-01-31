@@ -1,12 +1,10 @@
 # Seth Nguyen
 
-Hello. I was named Linh, but I go by Seth. 
-
-I am a writer and student curator from Hanoi, Vietnam.
+Hello. I was named Linh, but I go by Seth. I am a writer and student curator from Hanoi, Vietnam.
 
 Currently, I am pursuing a bachelor's in Art History and Religious Studies at the University of Chicago, with an expected graduation date of March 2023.
 
-Below are some of the things I have done, as well as things I plan to do. Resume available upon request at anguyen34 at uchicago dot edu.
+Below are some of the things I have done and plan to do. Resume available upon request at anguyen34 at uchicago dot edu.
 
 ## Curation
 
