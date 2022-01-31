@@ -1,5 +1,7 @@
 # Seth Nguyen
 
+Hello. I was named Linh, but I go by Seth. 
+
 I am a writer and student curator from Hanoi, Vietnam.
 
 Currently, I am pursuing a bachelor's in Art History and Religious Studies at the University of Chicago, with an expected graduation date of March 2023.
@@ -28,8 +30,8 @@ In my free time, I write poems. Occasionally, I let them out from my computer. I
 
 In my other free time, I contribute to the Arts section of the Chicago Maroon, the student newspaper of the University of Chicago. I reviewed [100 gecs' concert in Chicago](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) during their 10000 gecs tour, and I wrote [a tribute to SOPHIE](https://www.chicagomaroon.com/article/2021/2/23/sophie-tribute-tomorrow/) in memoriam of her passing in 2021.
 
-I am currently working on a zine on Adonis, transmasculine beauty, and roses.
-
 ## Sundries
 
+I am working on a zine on Adonis, transmasculine beauty, and roses featuring both my writings and collage art.
 
+I 
