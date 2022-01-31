@@ -1,10 +1,12 @@
-## Seth Nguyen
+# Seth Nguyen
 
-Y I don't know how to code. But whatever. ou can use the [editor on GitHub](https://github.com/fishspeech/fishspeech.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+___
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a writer and student curator from Hanoi, Vietnam, and I am currently pursuing a degree in Art History and Religious Studies at the University of Chicago. Below are some of the things I have done, as well as some of the things that I have not done. 
 
-### Markdown
+##
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
