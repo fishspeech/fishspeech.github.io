@@ -4,17 +4,17 @@ I am a writer and student curator from Hanoi, Vietnam.
 
 Currently, I am pursuing a bachelor's in Art History and Religious Studies at the University of Chicago, with an expected graduation date of March 2023.
 
-Below are some of the things I have done, as well as things I plan to do. 
+Below are some of the things I have done, as well as things I plan to do. Resume available upon request.
 
 ## Curation
 
 Through 2020 and 2021, I interned at the Smart Museum of Art and worked on a variety of projects. 
 
-I wrote and recorded [a virtual tour](https://theallureofmatter.org/object-chat-should-we-construct-another-cathedral/) of Huang Yong Ping's artwork, _Devons-nous encore construire une grande cathédrale?_ (_Should We Construct Another Cathedral?_), as part of the museum's virtual programming series, _Allure from Home_.
+From late 2020 to mid-2021, I curated a thematic grouping titled _Ambiguous Beauty_, which consists of fifty-six transhistorical and transnational artworks from the Smart's permanent collection, as a queer curatorial intervention into the museum's existing presentation strategies. 
 
-I curated a thematic grouping 
+The previous summer, I wrote and recorded [a virtual tour](https://theallureofmatter.org/object-chat-should-we-construct-another-cathedral/) of Huang Yong Ping's artwork, _Devons-nous encore construire une grande cathédrale?_ (_Should We Construct Another Cathedral?_), as part of the museum's virtual programming series, _Allure from Home_.
 
-In 2016, I founded and curated XXhibition, a feminist multi-media art exhibition, in Hanoi. The exhibition was featured on a daily TV bulletin from Hanoi's official radio and television network, [Hanoi Radio Television's "Hanoi 18:00."](https://www.youtube.com/watch?v=E2MIRqB4Sko) 
+I co-founded and curated XXhibition, a feminist multi-media art exhibition, in 2016. The exhibition was featured on a daily TV bulletin from Hanoi's official radio and television network, [Hanoi Radio Television's "Hanoi 18:00."](https://www.youtube.com/watch?v=E2MIRqB4Sko) 
 
 ## Writing
 
