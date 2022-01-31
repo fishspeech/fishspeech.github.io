@@ -20,7 +20,7 @@ I co-founded and curated XXhibition, a feminist multi-media art exhibition, in 2
 
 My current research project is on the queer potentialities found in depictions of Hermes in early modern Swiss art, as Dr. Tamara Golan's research assistant.
 
-I am also interested in the concept of materiality as method. I will be presenting my notes on Sophie Thun's photographic process at a student symposium on dynamics of media, medium, or mediation, hosted by the Feitler Center for Academic Inquiry at the Smart Museum of Art, later this year. Details forthcoming.
+I am also interested in materiality's role as methodology in art history. I will be presenting my notes on Sophie Thun's photographic process at a student symposium on dynamics of media, medium, or mediation later this year. Details forthcoming.
 
 In my free time, I write poems. Occasionally, I let them out from my computer. In 2017, my poem "Foreshadowing" was chosen for publication in the Austin International Poetry Festival's annual anthology, di-vêrsé-city. 
 
