@@ -2,7 +2,7 @@
 
 ___
 
-I am a writer and student curator from Hanoi, Vietnam, and I am currently pursuing a degree in Art History and Religious Studies at the University of Chicago. Below are some of the things I have done, as well as some of the things that I have not done. 
+I am a writer and student curator from Hanoi, Vietnam. I am currently pursuing a bachelor's in Art History and Religious Studies at the University of Chicago. Below are some of the things I have done, as well as some of the things that I have not done. 
 
 ##
 
