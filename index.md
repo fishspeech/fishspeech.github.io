@@ -14,7 +14,7 @@ From late 2020 to mid-2021, I curated a thematic grouping titled _Ambiguous Beau
 
 The previous summer, I wrote and recorded [a virtual tour](https://theallureofmatter.org/object-chat-should-we-construct-another-cathedral/) of Huang Yong Ping's artwork, _Devons-nous encore construire une grande cathédrale?_ (_Should We Construct Another Cathedral?_), as part of the museum's 2020 virtual programming series, _Allure from Home_. 
 
-I co-founded and curated XXhibition, a feminist multi-media art exhibition, in 2016. The exhibition was featured on a daily TV bulletin from Hanoi's official radio and television network, [Hanoi Radio Television's "Hanoi 18:00."](https://www.youtube.com/watch?v=E2MIRqB4Sko) 
+I co-founded and curated XXHibition, a feminist multi-media art exhibition, in 2016. The exhibition was featured on a daily TV bulletin from Hanoi's official radio and television network, [Hanoi Radio Television's "Hanoi 18:00."](https://www.youtube.com/watch?v=E2MIRqB4Sko) 
 
 ## Writing
 
