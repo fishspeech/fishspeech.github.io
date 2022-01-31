@@ -24,9 +24,9 @@ My current research project is on the queer potentialities found in depictions o
 
 I am also interested in materiality's role as methodology in art history. I will be presenting my notes on Sophie Thun's photographic process at a student symposium later this year. Details forthcoming.
 
-I write poetry. Occasionally, I let a poem out of my computer. One such poem, "Foreshadowing," was chosen for publication in the Austin International Poetry Festival's 2017 anthology, di-vêrsé-city. Another poem, "Sad News," is forthcoming in [_the lickety-split_](https://twitter.com/olicketysplit), a micropoetry journal that solely exists on Twitter.
+I write poetry. Occasionally, I let a poem out of my computer. One such poem, "Foreshadowing," was chosen for publication in the Austin International Poetry Festival's 2017 anthology, _di-vêrsé-city_. Another poem, "Sad News," is forthcoming in [_the lickety-split_](https://twitter.com/olicketysplit), a micropoetry journal that solely exists on Twitter.
 
-In my other free time, I contribute to the Arts section of the Chicago Maroon, the student newspaper of the University of Chicago. I reviewed [100 gecs' concert in Chicago](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) during their 10000 gecs tour, and I wrote [a tribute to SOPHIE](https://www.chicagomaroon.com/article/2021/2/23/sophie-tribute-tomorrow/) in memoriam of her passing in 2021.
+In my free time, I contribute to the Arts section of the Chicago Maroon, the student newspaper of the University of Chicago. I reviewed [100 gecs' concert in Chicago](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) during their 10000 gecs tour, and I wrote [a tribute to SOPHIE](https://www.chicagomaroon.com/article/2021/2/23/sophie-tribute-tomorrow/) in memoriam of her passing in 2021.
 
 ## Sundries
 
