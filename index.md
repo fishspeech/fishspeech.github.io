@@ -8,13 +8,17 @@ Below are some of the things I have done, as well as things I plan to do.
 
 ## Curation
 
+Through 2020 and 2021, I interned at the Smart Museum of Art and worked on a variety of projects. 
 
+I wrote and recorded [a virtual tour](https://theallureofmatter.org/object-chat-should-we-construct-another-cathedral/) of Huang Yong Ping's artwork, _Devons-nous encore construire une grande cathédrale?_ (_Should We Construct Another Cathedral?_), as part of the museum's virtual programming series, _Allure from Home_.
 
-In 2016, I founded and curated XXhibition, a feminist multi-media art exhibition, in Hanoi. All the artworks shown in this exhibition were created by emergent female artists, and they were centered on the marginalization and violence that Vietnamese women often had to face. I liaised with the local branch of the Ministry of Culture, Sports and Tourism and successfully obtained an approval license for the exhibition. I also assisted artists in setting up the exhibition and installing their works in the space. The exhibition was featured on a daily TV bulletin from Hanoi's official radio and television network, [Hanoi Radio Television's "Hanoi 18:00"](https://www.youtube.com/watch?v=E2MIRqB4Sko). 
+I curated a thematic grouping 
+
+In 2016, I founded and curated XXhibition, a feminist multi-media art exhibition, in Hanoi. The exhibition was featured on a daily TV bulletin from Hanoi's official radio and television network, [Hanoi Radio Television's "Hanoi 18:00."](https://www.youtube.com/watch?v=E2MIRqB4Sko) 
 
 ## Writing
 
-I write poems. Occasionally, I let them out in the world. In 2017, my poem "Foreshadowing" was chosen for publication in the Austin International Poetry Festival's annual anthology, di-vêrsé-city. 
+I write poems. Occasionally, I let them out from my computer. In 2017, my poem "Foreshadowing" was chosen for publication in the Austin International Poetry Festival's annual anthology, di-vêrsé-city. 
 
 In my free time, I contribute to the Arts section of the Chicago Maroon by writing about the music I like. I reviewed [100 gecs' concert in Chicago](https://www.chicagomaroon.com/article/2021/11/9/gecs-gecs-gecs/) during their 10000 gecs tour, and I wrote [a tribute to SOPHIE](https://www.chicagomaroon.com/article/2021/2/23/sophie-tribute-tomorrow/) in memoriam of her passing in 2021.
 
