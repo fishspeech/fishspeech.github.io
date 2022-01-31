@@ -1,8 +1,6 @@
 ## Seth Nguyen
 
-hello
-
-You can use the [editor on GitHub](https://github.com/fishspeech/fishspeech.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Y I don't know how to code. But whatever. ou can use the [editor on GitHub](https://github.com/fishspeech/fishspeech.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
