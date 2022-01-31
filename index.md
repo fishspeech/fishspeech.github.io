@@ -32,6 +32,6 @@ In my other free time, I contribute to the Arts section of the Chicago Maroon, t
 
 ## Sundries
 
-I am working on a zine on Adonis, transmasculine beauty, and roses featuring both my writings and collage art.
+I am working on a zine on Adonis, transmasculine beauty, and roses featuring poetry, prose, and collage art.
 
-I 
+I do [analog photography](https://linhmnguyen34.wixsite.com/home), and I make a solid pourover.
