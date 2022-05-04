@@ -5,7 +5,6 @@ permalink: /curation/
 ---
 
 <h1> Art </h1>
-<p> the art-stuff I've been up to. </p>
 
 Through 2020 and 2021, I interned at the Smart Museum of Art in Chicago and worked on a variety of projects. 
 
