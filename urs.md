@@ -15,5 +15,5 @@ Hello! Thank you for coming to my presentation. I will level with you: some acad
 
 2. With these questions in mind, visit this [online collection](https://web.archive.org/web/20220222042410/https://smartcollection.uchicago.edu/collections/84055/ambiguous-beauty-curated-by-seth-nguyen) that I curated from the Smart's collection.
 3. Look at the art.
-4. Read the poster, if you want, [here](fishspeech.github.io/docs/assets/Poster.pdf).
+4. Read the poster, if you want, [here](https://github.com/fishspeech/fishspeech.github.io/files/8633753/Poster.pdf).
 5. Come back to the [Zoom room](https://uchicago.zoom.us/j/98483849506?pwd=WTdrWHF2WEc4UlR0cTFyL3VReDdJdz09). Tell me about what you saw and felt!
