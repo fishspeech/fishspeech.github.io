@@ -10,8 +10,5 @@ Currently, I am pursuing a bachelor's in Art History at the University of Chicag
 
 [written work](https://fishspeech.github.io/writings/)
 
-## Sundries
+[other stuff](https://fishspeech.github.io/sundries/)
 
-I am working on a zine on Adonis, transmasculine beauty, and roses featuring poetry, prose, and collage art.
-
-I like to experiment with [analog photography](https://linhmnguyen34.wixsite.com/home), and I make a decent pourover. 
