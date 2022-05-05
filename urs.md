@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "URS 2022"
-permalink: /presentation/
+permalink: /urs22/
 ---
 <h1> I Really Hate Posters So This Is What You Are Getting Instead </h1>
 
