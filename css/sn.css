@@ -1,16 +1,16 @@
 h1 {
-    background-color: black;
+    background-color: bisque;
     color: maroon;
     font-family: Courier, monospace;
     text-align: center;
 }
 body {
-    background-color: black;
-    color: #00FF00; /* Green */
+    background-color: bisque;
+    color: black; /* Green */
     font-family: Courier, monospace;
     text-align: justify;
     padding: 100px;
 }
-a:link {color: #0e810e; /* Green */}
+a:link {color: #6c0404; /* Green */}
 
-a:visited{color:#0e810e;}
+a:visited{color:#1b581b;}

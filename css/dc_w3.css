@@ -1,0 +1,41 @@
+h1 {
+    color: maroon;
+    padding: 24px;
+  }
+  
+p{
+    padding: 24px 24px 5px;
+}
+
+nav {
+    background-color: maroon;
+    letter-spacing: 0.5px;
+}
+
+a.nav{ text-decoration: none;}
+a#not-nav:link{
+    color: rgb(234, 40, 10);
+    text-decoration: none;
+}
+a#not-nav:visited{color:green}
+a#not-nav:hover{color: darkblue}
+
+.ul1:link{text-decoration: none;}
+
+table {
+    border: 5px solid black;
+    font-family: "Arial", sans-serif;
+    font-size: medium;
+    letter-spacing: 1px;
+}
+
+.a{list-style: lower-roman; }
+.b{list-style: lower-alpha;}
+.c{list-style: square;}
+.d{list-style: "$ ";}
+
+.ml::first-letter{
+    font-size: larger;
+    font-weight: bold;
+}
+
