@@ -14,13 +14,26 @@
         <a class="nav-link dropdown-toggle" id="navbarDropdown_01" role="button" data-bs-toggle="dropdown"
         aria-haspopup="true" aria-expanded="false">
         Digital Chalkboard
-      </a>
+        </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
         <a class="dropdown-item" href="digital-chalkboard/DC2.html">Week 02</a>
-        <a class="dropdown-item" href="DC3.html">Week 03</a>
-        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="digital-chalkboard/w3/DC3.html">Week 03</a>
+        <a class="dropdown-item" href="digital-chalkboard/w4/DC4.html">Week 04</a>
       </div>
     </li>
+    <li class="nav-item">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="navbarDropdown_01" role="button" data-bs-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Technical Demos
+        </a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" href="">Week 02</a>
+        <a class="dropdown-item" href="">Week 03</a>
+        <a class="dropdown-item" href="">Week 04</a>
+      </div>
+    </li>
+    <li class="nav-item">
       <a class="nav-link" href="digital-chalkboard/w3/about.html">About</a>
     </li>
     <li class="nav-item">
@@ -29,8 +42,17 @@
   </ul>
   </div>
   <script>
-    var pathname = window.location.pathname;
-    var cleanPath = pathname.substring(pathname.lastIndexOf('/') + 1);
-    $('[href*="' + cleanPath + '"]').addClass('active');
+     function setActiveLink() {
+    var links = document.querySelectorAll('.navbar a');
+    var currentPath = window.location.pathname;
+
+    links.forEach(function(link) {
+        if (link.getAttribute('href') === currentPath) {
+            link.classList.add('active');
+        } else {
+            link.classList.remove('active');
+        }
+    });
+}
   </script>
 </nav>
