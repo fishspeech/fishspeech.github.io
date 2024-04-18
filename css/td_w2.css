@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 24px 24px 24px 24px
+}
+
+h1 {
+    padding: 24px 24px 6px 6px
+}
+
+h2 {
+    text-align: justify;
+}
+
+
+p {
+    background-color: black;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    font-size: medium;
+    padding: 24px 96px 0px;
+}
+a:link {color: #6c0404; }
+
+a:visited{color:#1b581b;}

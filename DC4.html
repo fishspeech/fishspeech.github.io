@@ -18,20 +18,16 @@
             crossorigin="anonymous"
         />
         <!--custom css file -->
-        <link rel="stylesheet" href="../../css/dc_w4.css">
+        <link rel="stylesheet" href="css/dc_w4.css">
     </head>
 
     <body>
+        <header>
         <div id="nav-placeholder"></div>
-        <script>
-            $.get("../../nav.html", function(data){
-                    $("#nav-placeholder").replaceWith(data);
-                });
-            </script>
+        </header>
         <h1>Week 4 Digital Chalkboard</h1>
             <p id="paragraph">Below is an example of how to create a row with four columns as well as JavaScript buttons that loads different functions.
-                The text is adapted from a <a href="https://newyorkwarcrimes.com/the-times-quotes-israeli-and-american-sources-more-than-3-times-as-much-as-palestinians">cultural analytics project</a>
-                .</p> 
+                The text is adapted from a <a href="https://newyorkwarcrimes.com/the-times-quotes-israeli-and-american-sources-more-than-3-times-as-much-as-palestinians">cultural analytics project</a>.</p> 
             <div class="container">
                 <div class="row">
                     <div class="col-sm well withgap">Since October 7, The Times has published thousands of articles on Israel’s war on Gaza. To identify patterns within this coverage, a team of NYWC data engineers scraped information from the newspaper’s</div>
@@ -65,8 +61,8 @@
                 integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
                 crossorigin="anonymous"
             ></script>
-            <script src="../../js/nav.js"></script>
-            <script src="../../js/dcw4.js"></script>
+            <script src="js/nav.js"></script>
+            <script src="js/dcw4.js"></script>
         </footer>
     </body>
 </html>

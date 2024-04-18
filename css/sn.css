@@ -1,16 +1,28 @@
 h1 {
     background-color: bisque;
     color: maroon;
-    font-family: Courier, monospace;
+    font-family: "Baskerville", serif;
     text-align: center;
 }
+
+h2 {
+    background-color: bisque;
+    color: black;
+    font-family: "Baskerville", serif;
+    text-align: center;
+    font-size: larger;
+    padding: 6px 0px 6px
+}
+
+
 body {
     background-color: bisque;
-    color: black; /* Green */
-    font-family: Courier, monospace;
+    color: black; 
+    font-family: Helvetica, sans-serif;
     text-align: justify;
+    font-size: medium;
     padding: 100px;
 }
-a:link {color: #6c0404; /* Green */}
+a:link {color: #6c0404; }
 
 a:visited{color:#1b581b;}

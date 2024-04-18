@@ -1,10 +1,13 @@
 h1 {
+    background-color: bisque;
     color: maroon;
     padding: 24px;
+    font-family: "Baskerville", serif;
   }
   
 p{
-    padding: 24px;
+    padding: 6px 0px 12px 24px;
+    
 }
 
 nav {

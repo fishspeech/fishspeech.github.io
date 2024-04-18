@@ -1,10 +1,19 @@
 h1 {
+    background-color: bisque;
     color: maroon;
     padding: 24px;
+    font-family: "Baskerville", serif;
   }
   
 p{
-    padding: 24px 24px 5px;
+    padding: 6px 24px 12px 24px;
+}
+
+body {
+    background-color: bisque;
+    color: black; ;
+    text-align: justify;
+    padding: 6px 6px 6px;
 }
 
 nav {
@@ -17,12 +26,13 @@ a#not-nav:link{
     color: rgb(234, 40, 10);
     text-decoration: none;
 }
-a#not-nav:visited{color:green}
-a#not-nav:hover{color: darkblue}
+a#not-nav:visited{color: #1b581b}
+a#not-nav:hover{color: #a00505}
 
 .ul1:link{text-decoration: none;}
 
 table {
+    padding: 6px 30px 12px 60px;
     border: 5px solid black;
     font-family: "Arial", sans-serif;
     font-size: medium;
@@ -39,3 +49,6 @@ table {
     font-weight: bold;
 }
 
+.container {
+    padding: 10px 30px 10px
+}
