@@ -6,6 +6,8 @@ h1 {
   }
   
 p{
+    background-color: bisque;
+    color: maroon;
     padding: 6px 24px 12px 24px;
 }
 
