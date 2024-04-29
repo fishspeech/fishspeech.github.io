@@ -1,3 +1,3 @@
-$.get("../../nav.html", function(data){
+$.get("../nav.html", function(data){
         $("#nav-placeholder").replaceWith(data);
     });

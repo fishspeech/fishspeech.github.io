@@ -1,0 +1,35 @@
+body p.maroon {
+    display: flex;
+    align-items: center;
+    padding: 1.2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #800000;
+    color: #D6D6CE;
+  }
+body p.darkGray {
+    display: flex;
+    align-items: center;
+    padding: 1.2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #767676;
+    color: #FFFFFF;
+  }
+body p.lightGray {
+    display: flex;
+    align-items: center;
+    padding: 1.2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #D6D6CE;
+    color: #000000;
+}
+h1 {
+    color: maroon;
+    padding: 24px;
+    font-family: "Baskerville", serif;
+  }

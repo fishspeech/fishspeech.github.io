@@ -29,3 +29,15 @@ function visitPage()
     window.location='https://newyorkwarcrimes.com/computational-analysis-methodology-and-data';
 
 }
+
+document.getElementById("button3").addEventListener("click", changeButton);
+
+function changeButton()
+{
+    let button = document.getElementById("button3");
+    console.log("Before change:", button.textContent, button.className);
+
+    button.textContent = "Done";
+    button.className = "btn btn-success";
+
+    console.log("After change:", button.textContent, button.className); }
