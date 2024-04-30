@@ -34,7 +34,7 @@ p.paragraph{color:midnightblue}
     align-items: flex-start;
 }
 
-.nav.navbar-nav.mr-auto li {
+.navbar {
     color:white
 }
 
