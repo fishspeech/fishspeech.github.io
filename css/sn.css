@@ -33,3 +33,17 @@ p.paragraph{color:midnightblue}
 .btn-group{
     align-items: flex-start;
 }
+
+.nav.navbar-nav.mr-auto li {
+    color:white
+}
+
+a.nav{ text-decoration: none;}
+a#not-nav:link{
+    color: rgb(234, 40, 10);
+    text-decoration: none;
+}
+a#not-nav:visited{color: #1b581b}
+a#not-nav:hover{color: #a00505}
+
+.ul1:link{text-decoration: none;}
