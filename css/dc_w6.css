@@ -1,0 +1,52 @@
+.content-box {
+    width: 100%; /* Use 100% to ensure it respects the parent container's size */
+    max-width: 800px; /* Optional: you can set a max-width if you want */
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Keeps content aligned to the left */
+}
+
+button {
+    cursor: pointer;
+    background-color: maroon;
+    color: white;
+    border: none;
+    padding: 12px 24px; /* Larger buttons */
+    border-radius: 15px;
+    transition: background-color 0.3s;
+    margin-bottom: 15px; /* Space before the result divs */
+}
+
+button:hover {
+    background-color: #a00000;
+}
+
+#output1, #output2, #output3, #sortedItems {
+    font-size: 18px;
+    color: #333;
+    padding: 20px; /* Adjust padding as needed */
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 100%; /* Ensures that the div does not exceed the width of its container */
+    text-align: left;
+    display: none; /* Hidden by default, shown on button click */
+}
+
+@media (max-width: 768px) { /* Adjustments for smaller screens */
+    .content-box {
+        padding: 10px;
+        margin: 10px;
+    }
+    #output1, #output2, #output3, #sortedItems {
+        padding: 10px;
+        margin-top: 20px;
+    }
+}
