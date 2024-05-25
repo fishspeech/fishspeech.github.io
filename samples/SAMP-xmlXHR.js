@@ -1,3 +1,4 @@
+// XHR: Older approach, more verbose, and less intuitive compared to fetch. Still used in legacy codebases and supported across all browsers.
 function loadXMLDoc() {
     let xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {

@@ -20,13 +20,13 @@ h1 {
 h2 {
     color: #333;
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
     margin-top: 30px; 
     margin-bottom: 20px;
 }
 
 p {
-    font-size: 1.2em;
+    font-size: 1em;
     line-height: 1.6;
     margin-bottom: 20px;
 }
@@ -137,7 +137,18 @@ h1, h2, p {
     .navbar .dropdown-menu {
         text-align: center;
     }
+
+    .navbar {
+        position: relative;
+        z-index: 1;
+        width: 100%;
+    }
+
+    .main-content {
+        margin-top: 55px; /* Adjust this value based on the height of your navbar */
+    }
 }
+
 
 
 
@@ -215,8 +226,18 @@ h1, h2, p {
         justify-content: center; /* Center icons on small screens */
         gap: 5px; /* Reduce space between icons on small screens */
     }
+    .footer {
+        position: relative;
+        z-index: 1;
+        width: 100%;
+    }
+
+    .main-content {
+        margin-bottom: 55px; /* Adjust this value based on the height of your navbar */
+    }
 }
 
 #main-content {
     margin-bottom:100px;
 }
+

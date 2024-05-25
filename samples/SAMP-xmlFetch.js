@@ -24,3 +24,5 @@ function loadXMLDoc() {
     console.error('Error loading XML file:', error);
   })
 };
+
+//Fetch Method: Preferred for its simplicity, readability, and modern usage. Handles both JSON and XML data.

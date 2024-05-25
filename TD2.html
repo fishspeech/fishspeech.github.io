@@ -19,14 +19,46 @@
             crossorigin="anonymous">
         <!--jQuery-->
         <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
-        <!--styling for terminalesque vibes-->
+        <!--sitewide CSS-->
+        <link rel="stylesheet" href="css/main.css">
         <!--custom CSS-->
-        <link rel="stylesheet" href="css/td_w2.css">
+        <style>
+body {
+    background-color: black;
+    color: rgb(21, 241, 21);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 24px 24px 24px 24px
+}
+
+h1 {
+    color: rgb(21, 241, 21);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 24px 24px 6px 6px
+}
+
+h2 {
+    text-align: center;
+}
+a:link {color: #ffffff; }
+        </style>
     </head>
     <body>
-        <h1>Tech Demo: Week 2</h1>
-        <p id="description">This is a webpage styled similarly to an 80s terminal.</p>
-        <p id="hw">This is a demonstration of Week 2's Technical Demo homework.</p>
-        <p><a href="index.html">Back</a></p>
+        <!--navbar-->
+        <div id="nav-placeholder"></div>
+        
+        <!--main content-->
+        <div id="main-content"> 
+            <h1>Tech Demo: Week 2</h1>
+            <p id="description">This is a webpage styled similarly to an 80s terminal.</p>
+            <p id="hw">This is a submission for Week 2's Technical Demo homework.</p>
+            <h2><a href="index.html">Back</a></h2>
+        </div>
+
+        <!--footer-->
+        <div id="footer-placeholder"></div>
+        <footer>
+            <script src="js/nav.js"></script>
+            <script src="js/footer.js"></script>
+        </footer>
     </body>
     </html>
