@@ -16,9 +16,47 @@
             integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             crossorigin="anonymous"
         />
-        <!--Your custom css file -->
-        <link rel="stylesheet" href="css/td_w3.css">
+        <!--sitewide css -->
+        <link rel="stylesheet" href="css/main.css">
 
+        <!--custom styling-->
+        <style>
+body p.maroon {
+    display: flex;
+    align-items: center;
+    padding: 1.2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #800000;
+    color: #D6D6CE;
+  }
+body p.darkGray {
+    display: flex;
+    align-items: center;
+    padding: 1.2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #767676;
+    color: #FFFFFF;
+  }
+body p.lightGray {
+    display: flex;
+    align-items: center;
+    padding: 1.2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #D6D6CE;
+    color: #000000;
+}
+h1 {
+    color: maroon;
+    padding: 24px;
+    font-family: "Baskerville", serif;
+  }
+        </style>
         <!--jQuery-->
         <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
     </head>
@@ -26,9 +64,6 @@
     <body>
         <!--navbar -->
         <div id="nav-placeholder"></div>
-
-        <!--footer-->
-        <div id="footer-placeholder"></div>
 
         <!--main content-->
         <div id="main-content">
@@ -38,6 +73,8 @@
             <p class="darkGray" id="third">Dark Gray</p>
             <p class="lightGray" id="third">Light Gray</p>
         </div>
+        <!--footer-->
+        <div id="footer-placeholder"></div>
         <footer>
                 <!-- Bootstrap JavaScript Libraries -->
             <script

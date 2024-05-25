@@ -87,7 +87,9 @@ h1, h2, p {
     background-color: #953b39;
 }
 
-
+.navbar-nav .nav-link.active {
+    background-color: #d9534f; /* Slightly different color for active link */
+}
 .navbar .dropdown-menu {
     display: none;
     position: absolute;

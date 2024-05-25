@@ -55,12 +55,30 @@
   </div>
 </nav>
 <!--navbar ends-->
-
 <script>
     var pathname = window.location.pathname;
     var cleanPath = pathname.substring(pathname.lastIndexOf('/') + 1);
     $('[href*="' + cleanPath + '"]').addClass('active');
 </script>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Get the current page URL
+    const currentUrl = window.location.pathname;
+
+    // Get all the navbar links
+    const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+
+    // Loop through each link
+    navLinks.forEach(link => {
+        // Check if the link's href matches the current URL
+        if (link.getAttribute('href') === currentUrl) {
+            // Add the 'active' class to the matching link
+            link.classList.add('active');
+        }
+    });
+});
+
+</script>
 </body>
 </html>
